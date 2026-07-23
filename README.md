@@ -15,7 +15,7 @@ This script uses the robust **SHA-512** hashing algorithm to generate file signa
 ### 1. Make the script executable
 Before running the script, grant it execution permissions:
 ```bash
-chmod +x integrity_checker.sh```
+chmod +x integrity_checker.sh
 ```
 ### 2. Generate a hash (Mode 1)
 To create an initial signature for a file, run the script with argument 1 followed by the filename:
